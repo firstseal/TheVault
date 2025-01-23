@@ -1,7 +1,7 @@
 ---
 tags:
+  - music
 ---
-
 For music that is specially designed for improving focus & productivity, below is a curated list of services which are specially designed, alternative to [[Binaural Beats]].
 
 [[Brain.fm]] is an excellent alternative to binaural beats, especially for those with ADHD
