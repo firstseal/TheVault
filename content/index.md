@@ -1,10 +1,11 @@
 ---
-title: Introduction
+title: Home
+tags:
 ---
+## Welcome
+This is a knowledge database that stores various information relating to [[Biohacking]], [[Cybersecurity]], [[Mental Health]], [[Productivity]]
 
-This will be a system of storing information.
 
-This site may or may not be publicly available depending on ACLs.
 
 Topics:
 	Cybersecurity

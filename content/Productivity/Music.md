@@ -1,3 +1,6 @@
+---
+tags:
+---
 
 For music that is specially designed for improving focus & productivity, below is a curated list of services which are specially designed, alternative to [[Binaural Beats]].
 - [Brain.fm ](https://www.brain.fm/) - Music Powered By Science
