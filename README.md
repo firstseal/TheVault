@@ -1,18 +1,19 @@
-# Quartz v4
+## Quartz
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This project is based on [quartz](https://github.com/jackyzha0/quartz) using [Obsidian.md](https://obsidian.md) as the Markdown editor of choice.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Quartz Theme
+We are using [quartz-themes](https://github.com/saberzero1/quartz-themes) for theme integration.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Currently we had to modify 2 files:
+  - ``justfline`` on line `2`
+  - ``set-theme.js`` on line 101
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+I've created an issue upstream, but just for documentation this is what I changed for the theming to work.
 
-## Sponsors
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Dev
+
+Update (syncrepo): ``npx quartz sync``
+
+Build Locally: ``npx quartz build --serve``
